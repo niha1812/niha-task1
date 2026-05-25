@@ -83,3 +83,29 @@ while True:
     elif 'exit' in query or 'stop' in query:
         speak("Goodbye")
         break
+
+        🎙️ AI Voice Assistant
+An intelligent Voice Assistant built using modern AI and speech technologies that can listen to user commands, process them, and respond naturally in real time.
+This project combines Speech Recognition, Natural Language Processing, and Text-to-Speech to create a smart virtual assistant experience.
+🚀 Features
+🎤 Voice command recognition
+🗣️ Text-to-Speech responses
+🤖 AI-powered conversation handling
+🌐 Web search & information retrieval
+📂 Open applications/files using voice commands
+⏰ Time, date, weather, and reminders support
+🔍 Smart command processing
+⚡ Fast and interactive user experience
+🛠️ Technologies Used
+Python
+SpeechRecognition
+pyttsx3 / gTTS
+OpenAI API / Gemini API (if used)
+Flask / FastAPI (if used)
+PyAudio
+NLP Libraries
+📦 Installation
+Clone the repository:
+Bash
+git clone https://github.com/your-username/voice-assistant.git
+
