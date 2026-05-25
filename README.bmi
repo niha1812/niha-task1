@@ -1,0 +1,83 @@
+BMI Calculator
+
+A simple Python BMI (Body Mass Index) Calculator project for beginners.
+This program takes the user's weight and height as input, calculates BMI, and displays the health category.
+
+Features
+
+User-friendly command-line interface
+
+Calculates accurate BMI values
+
+Categorizes BMI into:
+
+Underweight
+
+Normal weight
+
+Overweight
+
+Obese
+
+
+Input validation using error handling
+
+Beginner-friendly Python project
+
+
+Technologies Used
+
+Python 3
+
+
+BMI Formula
+
+BMI = \frac{weight\ (kg)}{height^2\ (m^2)}
+
+How to Run
+
+1. Clone the repository:
+
+
+
+git clone https://github.com/yourusername/BMI-Calculator.git
+
+2. Open the project folder.
+
+
+3. Run the program:
+
+
+
+python main.py
+
+Example Output
+
+===== BMI Calculator =====
+Enter your weight in kilograms: 55
+Enter your height in meters: 1.65
+
+Your BMI is: 20.20
+Category: Normal weight
+
+Project Structure
+
+BMI-Calculator/
+│── main.py
+│── README.md
+
+Learning Outcomes
+
+This project helps beginners understand:
+
+Python basics
+
+Variables and data types
+
+User input handling
+
+Conditional statements
+
+Exception handling
+
+Mathematical calculations

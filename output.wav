@@ -1,0 +1,15 @@
+2026-05-25 12:31:45.487 [info] Environment discovery is managed by the Python Environments extension (ms-python.vscode-python-envs). Check the "Python Environments" output channel for environment-specific logs.
+2026-05-25 12:31:45.488 [info] [test-by-project] Activating project-based testing mode
+2026-05-25 12:31:45.488 [info] [test-by-project] Discovering projects for workspace: c:\niha.ai
+2026-05-25 12:31:45.488 [info] [test-by-project] Found 1 total Python projects from API
+2026-05-25 12:31:45.488 [info] [test-by-project] Filtered to 1 projects in workspace
+2026-05-25 12:31:45.488 [info] [test-by-project] Creating adapter for: niha.ai at file:///c%3A/niha.ai
+2026-05-25 12:31:45.527 [info] > pyenv which python
+2026-05-25 12:31:45.528 [info] cwd: .
+2026-05-25 12:31:47.244 [info] Active interpreter [c:\niha.ai]:  C:\Users\ub597\AppData\Local\Programs\Python\Python312\python.exe
+2026-05-25 12:31:47.244 [info] [test-by-project] Registered 1 project(s) for c:\niha.ai
+2026-05-25 12:31:47.255 [info] [test-by-project] Activated 1 project(s) for c:\niha.ai
+2026-05-25 12:31:47.257 [info] [test-by-project] Subscribed to Python project changes
+2026-05-25 12:31:50.413 [info] Starting Pylance language server.
+2026-05-25 15:49:46.314 [info] Send text to terminal: python -u "c:\niha.ai\tempCodeRunnerFile.py"
+2026-05-25 15:49:58.258 [info] Send text to terminal: python -u "c:\niha.ai\tempCodeRunnerFile.py"
